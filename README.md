@@ -7,6 +7,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
+![DALL·E 2024-02-07 00 12 47 - Visualize a decision tree machine learning model undergoing hyperparameter tuning  The scene unfolds in a digital workspace, brimming with technology ](https://github.com/ViswanathRajuIndukuri/Decision-Tree-Regressor/assets/144731305/6d367622-b917-4c45-9b74-d26784b96ebd)
 
 ## Overview
 This project is not just about implementing a decision tree; it's an exploration of optimizing and refining the model to achieve superior predictive accuracy.
