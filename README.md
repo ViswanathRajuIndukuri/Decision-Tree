@@ -9,7 +9,8 @@
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
 ![DALL·E 2024-02-07 00 12 47 - Visualize a decision tree machine learning model undergoing hyperparameter tuning  The scene unfolds in a digital workspace, brimming with technology ]
 
-![DALL·E 2024-02-07 00 12 47 - Visualize a decision tree machine learning model undergoing hyperparameter tuning  The scene unfolds in a digital workspace, brimming with technology  (1)](https://github.com/ViswanathRajuIndukuri/Decision-Tree-Regressor/assets/144731305/6880859f-52ec-44f1-8d1c-7d0a5364ae6f)
+![DALL·E 2024-02-07 00 12 47 - Visualize a decision tree machine learning model undergoing hyperparameter tuning  The scene unfolds in a digital workspace, brimming with technology  (1)](https://github.com/ViswanathRajuIndukuri/Decision-Tree-Regressor/assets/144731305/ea63e56e-edaa-445d-833d-d4ecd9da6454)
+
 
 ## Overview
 This project is not just about implementing a decision tree; it's an exploration of optimizing and refining the model to achieve superior predictive accuracy.
