@@ -11,7 +11,7 @@
 ## Overview
 This project is not just about implementing a decision tree; it's an exploration of optimizing and refining the model to achieve superior predictive accuracy.
 
-## Contents
+## Key Features
   - **Dataset Creation**: Crafting a synthetic dataset with a blend of features for a realistic modeling scenario.
   - **Initial Decision Tree Regressor Model**: Evaluating the performance of a decision tree regressor with default settings to establish a baseline.
   - **Hyperparameter Tuning and Feature Importance Analysis**: Fine-tuning the model to uncover its true potential and comparing the impacts of different features.
