@@ -7,7 +7,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
-![DALL·E 2024-02-07 00 12 47 - Visualize a decision tree machine learning model undergoing hyperparameter tuning  The scene unfolds in a digital workspace, brimming with technology ]
 
 ![DALL·E 2024-02-07 00 12 47 - Visualize a decision tree machine learning model undergoing hyperparameter tuning  The scene unfolds in a digital workspace, brimming with technology  (1)](https://github.com/ViswanathRajuIndukuri/Decision-Tree-Regressor/assets/144731305/ea63e56e-edaa-445d-833d-d4ecd9da6454)
 
